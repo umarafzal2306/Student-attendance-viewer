@@ -1,0 +1,15 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+th {
+    background: #4facfe;
+    color: white;
+}
+
+td, th {
+    padding: 10px;
+    text-align: center;
+}
